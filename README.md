@@ -1,0 +1,2 @@
+# BolantoUpdater
+Bolanto auto-updater
